@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 1993-2015 Kingdee Inc.All Rights Reserved.
+ * Copyright (C) xxxx-2015 Your Company Inc.All Rights Reserved.
  * 
  * FileName：URLConnectionUtil.java
  * 
@@ -9,7 +9,7 @@
  * 1.0 Kai.Zhao 2015年6月10日 Create
  * 1.1 Kai.Zhao 2015年6月10日 请求
  */
-package com.kevin.utils;
+package com.xxx.utils;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
